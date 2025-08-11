@@ -45,6 +45,24 @@ marquee{
     font-weight: bold;
     font-size: 25px;
 }
+@media (max-width: 600px) {
+    h1 {
+    font-size: 1.5em;
+    }
+
+    #my {
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .sub {
+    font-size: 1.2em;
+    }
+
+    .allsub a {
+    font-size: 0.95em;
+    }
+}
 
 
 
