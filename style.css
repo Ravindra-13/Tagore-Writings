@@ -1,0 +1,69 @@
+body{
+    background-color: white;
+    color: black;
+}
+#my{
+    margin-top: 100px;
+    text-align: center;
+    height: 40px;
+    font-size: 16px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+    padding: 20px;
+}
+a{
+    margin-right: 150px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+#s1{
+    margin-top: 500px;
+}
+marquee{
+    color: blue;
+    font-weight: bold;
+    font-size: 16px;
+}
+#hint{
+    color: red;
+    font-weight: bold;
+    font-size: 16px;
+}
+.allsub{
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: gray;
+    border-radius: 5px;
+}
+.sub{
+    color: red;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
