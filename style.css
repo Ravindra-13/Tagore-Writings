@@ -2,9 +2,6 @@ body{
     background-color: white;
     color: black;
 }
-button{
-    width: 50px;
-}
 #my{
     margin-top: 100px;
     line-height: 2;
@@ -47,5 +44,8 @@ marquee{
     color: red;
     font-weight: bold;
     font-size: 25px;
+}
+button{
+    width: 50px;
 }
 
