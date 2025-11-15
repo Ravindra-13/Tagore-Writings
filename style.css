@@ -1,24 +1,30 @@
 body{
     background-color: white;
     color: black;
+    font-weight: bold;
+}
+.btn{
+    width: 50px;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
 }
 #my{
     margin-top: 100px;
     line-height: 2;
     height: 200px;
     width: 200px;
-    font-size: 16px;
     text-align: center;
     border-width: 2px;
     border-style: solid;
     border-color: gray;
     border-radius: 5px;
 }
-a{
-    text-decoration: none;
+.task{
     color: black;
-    font-weight: bold;
-    font-size: 16px;
 }
 #s1{
     margin-top: 500px;
@@ -34,7 +40,7 @@ marquee{
     font-size: 16px;
 }
 .allsub{
-    height: 200px;
+    height: 240px;
     border-width: 2px;
     border-style: solid;
     border-color: gray;
@@ -45,7 +51,8 @@ marquee{
     font-weight: bold;
     font-size: 25px;
 }
-button{
-    width: 50px;
+.download{
+    background-color: green;
+    margin-left: 60%;
+    color: white;
 }
-
